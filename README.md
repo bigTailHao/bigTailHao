@@ -1,47 +1,73 @@
-### Hi there 👋
-王文浩
-学校：中国科学院计算技术研究所             		年龄：26
-邮箱：wangwenhao0121@outlook.com               电话：18810228079
-技能：python、pytorch、c++、docker、tmux、shell、ffmpeg、slurm
-个人博客：https://blog.csdn.net/bigtailhao
-背景
-教育经历
-中国科学院计算技术研究所（北京）  计算机技术      硕士研究生     2018.09  -  2021.07
-华北电力大学（北京，保研） 		  软件工程        本科           2014.09  -  2018.06
-工作经历
-（正式）百度     				  算法工程师					2022.11-至今
-（正式）阿里巴巴				  算法工程师					2021.07-2022.10 
-项目经历
-百度-手机百度app手动/自动拍照识别                            2022.11 – 至今
-○项目介绍：手动拍-基于端模型的通用物体识别，并且选出最符合用户预期的top1物体。自动拍-在手动拍的基础上增加了物体跟踪，以及相应的top1物体选择/修改逻辑。
-○项目难点：移动端计算机资源有限，精度要求高，不常见物体检测精度低，类别不平衡。 
-○个人工作：迭代轻量级目标检测模型，双端模型工程化，自动化标注数据，sdk开发。
-○项目成果：模型精度map0.41->0.43，速度25ms->15ms,pv+100w。
-阿里巴巴-基于监控视频的人员搜索/定位系统			   	    	  2021.07 – 2022.10
-○项目介绍：利用监控视频对盒马店内人员进行搜索/定位，进而进行区域客流分析，区域标定--全店实时搜索特殊着装人员，员工定位，黑名单预警等，同时将位置信息映射到CAD地图上。
-○项目难点：室内场景遮挡严重，特殊着装检测冷启动阶段误检高，计算资源有限。 
-○个人工作：目标检测，reid/分类算法，模型小型化以及模型压缩。
-区域标定--全店实时搜索特殊着装人员：CAD地图绘制/维护成本比较高，实时通过全场200路摄像头低功耗，低误检，高召回的稳定搜索特殊着装的员工，可以方便快捷的对感兴趣区域进行标定。
-中科院计算所-面向AI芯片的多阶段双目视差计算技术研究           2019.07 - 2021.06
-○项目介绍：通过双目图像对实时预测深度信息，依次输出多个精度下的视差图，并且在模型量化之后移植到半导体所自研AI芯片上（只支持int8运算）。
-○项目难点：AI芯片不支持3D卷积，要求模型低功耗高精度，AI芯片的计算资源有限。
-○个人工作：用 1D/2D卷积代替3D卷积，提高模型精度。
-○项目成果：运算速度提升7.4%，三像素误差仅增加 0.4%。
-获奖经历、论文
-比赛：天池智能体积测量：top30
-论文：Wenhao Wang*, Yi Liu*, Xiaozhou Guo, et al. Lightweight real-time stereo matching algorithm for AI chips. Computer Communications (共一，SCI三区，CCF-C)
+ <center>
+     <h1>XXX</h1>
+ </center>
 
-<!--
-**bigTailHao/bigTailHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 个人信息 
 
-Here are some ideas to get you started:
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
+* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 工作及教育经历
+
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+
+## 专业技能
+
+* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 掌握基础数据结构和算法的基本原理
+* 等等
+
+## 项目经历
+
+1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
+    * 具体功能 
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址 
+
+2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
+    * 具体功能 
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址 
+
+## 获奖经历
+* XXX 优秀新人
+* XXX 学生社团优秀干部
+* 竞赛 XXX 奖
+
+## 个人账号 
+* blog 地址 (附加自己博客特色，写了哪些技术文章)
+* github 地址 (附加自己github特色，突出的项目)
+
+## 其他信息 
+* 喜欢钻研技术 等等
+* 性格开朗，喜欢跳舞，做个主持人 等等 
+
+> 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
+
+# 关于作者
+
+大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。
+
+也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
+
+<a name="微信"></a>
+<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
+
+# 公众号
+
+更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
+
+
+**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
+
+**来看看就知道了，你会发现相见恨晚！**
+
+<a name="公众号"></a>
+
+![](https://github.com/youngyangyang04/leetcode-master/blob/master/pics/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
+
