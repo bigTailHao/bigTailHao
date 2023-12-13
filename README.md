@@ -1,12 +1,12 @@
  <center>
-     <h1>XXX</h1>
+     <h1>王文浩</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：26  
+* 手 机：18810228079 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：wangwenhao0121@outlook.com    
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：算法工程师
 
 ## 工作及教育经历
 
@@ -56,7 +56,7 @@
 也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
 
 <a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
+<img src="assets/1.jpg" data-img="1" width="175" height="175">
 
 # 公众号
 
