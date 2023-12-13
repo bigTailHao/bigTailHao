@@ -56,7 +56,7 @@
 也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
 
 <a name="微信"></a>
-<img src="assets/1.jpg" data-img="1" width="175" height="175">
+<img src="1.jpg" data-img="1" width="175" height="175">
 
 # 公众号
 
